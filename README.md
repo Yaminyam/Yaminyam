@@ -7,9 +7,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=siontama)](https://solved.ac/siontama)
 
-- 📫 How to reach me: siontama@gmail.com
-- </> Baekjoon: https://www.acmicpc.net/user/siontama
-
+Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
 C++          3 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.89 % 
@@ -19,6 +17,9 @@ HTML         33 mins         █▓░░░░░░░░░░░░░░░
 Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 ```
 <!--END_SECTION:waka-->
+
+- 📫 How to reach me: siontama@gmail.com
+- </> Baekjoon: https://www.acmicpc.net/user/siontama
 
 <!--
 **Yaminyam/Yaminyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
