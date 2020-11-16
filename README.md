@@ -11,6 +11,13 @@
 - </> Baekjoon: https://www.acmicpc.net/user/siontama
 
 <!--START_SECTION:waka-->
+```text
+C++          3 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.89 % 
+JavaScript   2 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
+PHP          1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.54 % 
+HTML         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+```
 <!--END_SECTION:waka-->
 
 <!--
