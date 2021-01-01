@@ -10,9 +10,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-JavaScript   19 mins         ██████████████████▒░░░░░░   72.93 % 
-JSON         5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.71 % 
-PHP          2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
