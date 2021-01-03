@@ -10,7 +10,8 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C++          1 hr 45 mins    ████████████████████████░   96.43 % 
+JavaScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 <!--END_SECTION:waka-->
 
