@@ -10,8 +10,8 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C++          4 hrs 38 mins   ████████████████████████▓   98.62 % 
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+C++          5 hrs 40 mins   ███████████████████████░░   91.66 % 
+JavaScript   31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 ```
 <!--END_SECTION:waka-->
 
