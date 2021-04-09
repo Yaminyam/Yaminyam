@@ -10,7 +10,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+
 ```
 <!--END_SECTION:waka-->
 
