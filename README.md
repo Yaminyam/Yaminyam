@@ -10,7 +10,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C++   58 mins         █████████████████████████   100.00 % 
+C++   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
