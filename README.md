@@ -10,7 +10,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+OCaml   1 hr 34 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
