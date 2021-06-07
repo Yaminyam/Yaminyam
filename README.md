@@ -4,6 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=siontama)](https://solved.ac/siontama)
 
