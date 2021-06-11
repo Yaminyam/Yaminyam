@@ -12,8 +12,8 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 59 mins   ███████████████▓░░░░░░░░░   62.37 % 
-OCaml        1 hr 47 mins    █████████▒░░░░░░░░░░░░░░░   37.62 % 
+Python       2 hrs 58 mins   █████████████████▓░░░░░░░   70.53 % 
+OCaml        1 hr 14 mins    ███████▒░░░░░░░░░░░░░░░░░   29.46 % 
 ```
 <!--END_SECTION:waka-->
 
