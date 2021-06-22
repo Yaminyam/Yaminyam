@@ -12,7 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 22 mins    █████████████████████████   100.00 % 
+Python   1 min           █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
