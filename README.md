@@ -12,7 +12,9 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          3 hrs 10 mins   ███████████████████▓░░░░░   78.69 % 
+Makefile   40 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Other      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 <!--END_SECTION:waka-->
 
