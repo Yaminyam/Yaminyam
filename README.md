@@ -12,8 +12,9 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C            3 hrs 10 mins   ████████████████████████▒   97.11 % 
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+C            4 hrs 9 mins    ████████████████████████▒   96.74 % 
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C++          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
