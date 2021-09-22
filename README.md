@@ -12,8 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C     18 mins         ███████████████░░░░░░░░░░   59.43 % 
-C++   12 mins         ██████████░░░░░░░░░░░░░░░   40.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
