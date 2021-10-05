@@ -12,8 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 18 mins    █████████████████████▓░░░   87.28 % 
-Makefile   11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+C     2 hrs 45 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
