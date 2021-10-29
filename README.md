@@ -12,8 +12,10 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-Python       2 hrs 15 mins   █████████████████████░░░░   84.23 % 
-CMake        24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Python     2 hrs 15 mins   █████████████████░░░░░░░░   67.66 % 
+C          30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+CMake      24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 <!--END_SECTION:waka-->
 
