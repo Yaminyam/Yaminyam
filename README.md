@@ -12,7 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-Git Config   9 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
