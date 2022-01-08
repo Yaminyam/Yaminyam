@@ -12,7 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CMake   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
