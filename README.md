@@ -12,7 +12,7 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-CMake   4 mins          █████████████████████████   100.00 % 
+CMake   4 mins          █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
 
