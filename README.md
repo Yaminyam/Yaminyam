@@ -12,7 +12,10 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-C          27 mins         █████████████████████████   99.41 % 
+JavaScript   30 mins         ███████████░░░░░░░░░░░░░░   43.76 % 
+C            15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.87 % 
+HTML         13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Git Config   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
 <!--END_SECTION:waka-->
 
