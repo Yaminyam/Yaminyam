@@ -12,12 +12,12 @@
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 37 mins
+Total: 4 hrs 28 mins
 
-JavaScript   2 hrs 48 mins   ██████████████▒░░░░░░░░░░   57.42 % 
-C            1 hr 13 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.19 % 
-HTML         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+JavaScript   2 hrs 38 mins   ██████████████░░░░░░░░░░░   55.98 % 
+C            1 hr 13 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.03 % 
+HTML         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Other        15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 <!--END_SECTION:waka-->
 
