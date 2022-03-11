@@ -13,9 +13,10 @@ Last 7 days WakaTime
 <!--START_SECTION:waka-->
 
 ```text
-C            4 hrs 8 mins    █████████████████████████   99.86 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C            8 hrs 15 mins   ██████████████████████▓░░   90.10 %
+Makefile     53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
