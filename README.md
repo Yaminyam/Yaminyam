@@ -6,8 +6,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=siontama)](https://solved.ac/siontama)
+![siontama's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=siontama)
 
 Last 7 days WakaTime
 <!--START_SECTION:waka-->
