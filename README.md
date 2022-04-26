@@ -4,11 +4,9 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yaminyam)](https://github.com/anuraghazra/github-readme-stats)
-
 ![siontama's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=siontama)
 
-Last 7 days WakaTime
+Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
