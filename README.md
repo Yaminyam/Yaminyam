@@ -17,11 +17,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-C++              40 mins         ███████████████████████▓░   94.33 %
-Java             2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+C++              1 hr 54 mins    ████████████████████████▒   97.91 %
+Java             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+ObjectiveC       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
