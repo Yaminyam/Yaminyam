@@ -17,11 +17,12 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    12 hrs 10 mins  ████████▓░░░░░░░░░░░░░░░░   35.07 %
-TypeScript    9 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-Rust          5 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-C             4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
-Other         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JavaScript    13 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   41.38 %
+TypeScript    9 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.92 %
+Rust          7 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Python        1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+C++           33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
