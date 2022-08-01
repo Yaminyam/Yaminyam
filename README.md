@@ -1,9 +1,12 @@
 ### Hi there, I'm Sion Kang 👋
 
-- 🔭 I’m currently working on [Satrec Initiative](https://www.satreci.com/)
-- 🌱 I’m currently learning TypeScript
-- 📫 How to reach me: siontama@gmail.com
-- </> Baekjoon: https://www.acmicpc.net/user/siontama
+### 🔭 I’m currently working on
+- [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
+- [Lablup Inc.](https://www.lablup.com/) (2022. 07. ~ 2022. 08.)
+### 🌱 I’m currently learning
+- TypeScript, Python, Rust
+### 📫 How to reach me: siontama@gmail.com
+### </> Baekjoon: https://www.acmicpc.net/user/siontama
 
 ---
 
