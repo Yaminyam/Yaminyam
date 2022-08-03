@@ -6,6 +6,7 @@
 ### 🌱 I’m currently learning
 - TypeScript, Python, Rust
 ### ⚡ Activity
+- BoostCamp 6th camper
 - AUSG 6th member
 - SW Maestro 1th Expert
 - 42Seoul 4th Cadet
