@@ -4,7 +4,9 @@
 - [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
 - [Lablup Inc.](https://www.lablup.com/) (2022. 07. ~ 2022. 08.)
 ### 🌱 I’m currently learning
-- TypeScript, Python, Rust
+- Language: TypeScript, Python, Rust, C++
+- Framework: Sptring boot, Nest.JS, Express.JS
+- DB: SQLite, MySQL, MongoDB
 ### ⚡ Activity
 - BoostCamp Web/Mobile 7th camper
 - AUSG 6th member
