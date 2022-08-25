@@ -10,7 +10,7 @@
 ### ⚡ Activity
 - boostcamp Web/Mobile 7th membership camper
 - boostcamp Web/Mobile 7th challenge camper
-- open source contributhon 2022 RustPython Lead Mentee
+- open source contribution academy 2022 RustPython Lead Mentee
 - AUSG 6th member
 - SW Maestro 1th Expert
 - 42Seoul 4th Cadet
