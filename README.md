@@ -31,11 +31,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   15 hrs 50 mins  ██████████████░░░░░░░░░░░   55.55 %
-CSS          4 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-EJS          3 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-TypeScript   3 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   12 hrs 46 mins  ███████████████▒░░░░░░░░░   61.95 %
+TypeScript   2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
+CSS          1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+EJS          1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Other        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
