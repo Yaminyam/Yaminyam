@@ -8,6 +8,7 @@
 - Framework: Sptring boot, Nest.JS, Express.JS
 - DB: SQLite, MySQL, MongoDB
 ### ⚡ Activity
+- DEPROMEET 12th Server Developer
 - boostcamp Web/Mobile 7th membership camper
 - boostcamp Web/Mobile 7th challenge camper
 - open source contribution academy 2022 RustPython Lead Mentee
