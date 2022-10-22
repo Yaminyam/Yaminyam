@@ -32,9 +32,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   46.44 %
-C++          2 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
-Other        1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+JavaScript   3 hrs 44 mins   █████████████████████▓░░░   86.07 %
+Other        28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 %
 ```
 
 <!--END_SECTION:waka-->
