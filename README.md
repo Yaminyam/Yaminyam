@@ -32,7 +32,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-Other        13 mins         █████████████▒░░░░░░░░░░░   52.81 %
+Other        13 mins         ████████████████████████▓   98.03 %
 ```
 
 <!--END_SECTION:waka-->
