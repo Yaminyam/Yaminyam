@@ -32,7 +32,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+TypeScript   1 hr 21 mins    ████████████████████▒░░░░   80.73 %
+JSON         13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
+Bash         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
