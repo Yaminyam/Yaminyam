@@ -1,7 +1,7 @@
 ### Hi there, I'm Sion Kang 👋
 
 ### 🔭 I’m currently working on
-- [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
+- [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 12.)
 - [Lablup Inc.](https://www.lablup.com/) (2022. 07. ~ 2022. 12.)
 ### 🌱 I’m currently learning
 - Language: TypeScript, Python, Rust, C++
