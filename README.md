@@ -1,9 +1,9 @@
 ### Hi there, I'm Sion Kang 👋
 
 ### 🔭 I’m currently working on
-- [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
 - [Lablup Inc.](https://www.lablup.com/) (2022. 07. ~ 2022. 12.)
   - [회고](https://blog.lablup.com/posts/2022/11/29/internship-review-8)
+- [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
 ### 🌱 I’m currently learning
 - Language: TypeScript, Python, Rust, C++
 - Framework: Sptring boot, Nest.JS, Express.JS
