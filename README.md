@@ -1,4 +1,4 @@
-### Hi there, I'm Sion Kang 👋
+## Hi there, I'm Sion Kang 👋
 
 ### 🔭 I’m currently working on
 - [Lablup Inc.](https://www.lablup.com/) (2022. 07. ~ 2022. 12.)
