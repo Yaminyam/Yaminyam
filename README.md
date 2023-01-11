@@ -33,8 +33,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 7 mins    ████████████████████▓░░░░   82.00 %
-YAML         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+TypeScript   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
