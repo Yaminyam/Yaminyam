@@ -33,8 +33,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-YAML         41 mins         █████████▒░░░░░░░░░░░░░░░   37.26 %
-Other        25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+YAML     41 mins         ████████▒░░░░░░░░░░░░░░░░   33.86 %
+C++      25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Other    25 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
 ```
 
 <!--END_SECTION:waka-->
