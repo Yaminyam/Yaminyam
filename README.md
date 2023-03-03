@@ -34,9 +34,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-Python             4 hrs 37 mins   ████████████████████▓░░░░   82.53 %
-YAML               38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Other              14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Python             4 hrs 41 mins   ██████████████░░░░░░░░░░░   56.32 %
+Rust               1 hr 34 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+YAML               1 hr 33 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+Other              14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
