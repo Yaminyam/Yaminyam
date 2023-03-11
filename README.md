@@ -34,12 +34,12 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-YAML               4 hrs 55 mins   █████████████████▒░░░░░░░   69.61 %
-JavaScript         1 hr 53 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
-Rust               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-jsonc              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Gettext Catalog    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+YAML               7 hrs 17 mins   ███████████████████▒░░░░░   77.99 %
+JavaScript         1 hr 53 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 %
+Rust               7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Gettext Catalog    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Git                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
