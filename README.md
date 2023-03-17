@@ -34,9 +34,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-YAML       7 hrs 44 mins   ███████████████▓░░░░░░░░░   62.82 %
-Docker     4 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.88 %
-Other      14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+YAML         7 hrs 52 mins   ███████████████░░░░░░░░░░   60.52 %
+Docker       4 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.10 %
+JavaScript   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
