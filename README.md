@@ -35,10 +35,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-YAML         10 hrs 17 mins  ████████████████████▒░░░░   80.71 %
-JSON         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-JavaScript   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML         6 hrs 59 mins   ███████████████████▒░░░░░   77.58 %
+JSON         1 hr 18 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+JavaScript   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
