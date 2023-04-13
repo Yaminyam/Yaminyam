@@ -1,5 +1,5 @@
 ## Hi there, I'm Sion Kang 👋
-“Hello, I’m Si-On Kang who wants to be a developer for developers.”
+“Hello, I’m Sion Kang who wants to be a developer for developers.”
 
 I am interested in the developer community and open source because I think sharing and growing together is the most important thing for the developer ecosystem to grow so quickly.
 
