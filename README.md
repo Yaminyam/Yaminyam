@@ -1,4 +1,13 @@
 ## Hi there, I'm Sion Kang 👋
+“Hello, I’m Si-On Kang who wants to be a developer for developers.”
+
+I am interested in the developer community and open source because I think sharing and growing together is the most important thing for the developer ecosystem to grow so quickly.
+
+I continues to contribute to various open source causes, and has created and deployed Github Actions that can benefit not just one project, but the Github ecosystem itself.
+
+I am interested in solving problems, so I am interested in algorithms and performance optimization, so I run an algorithm club, host an algorithm competition, and present problems myself.
+
+I think that programming is for automation after all, so I think that the development process should be automated, so I think DevOps and SRE are important.
 
 ### 🔭 I’m currently working on
 - [Lablup Inc.](https://www.lablup.com/)
