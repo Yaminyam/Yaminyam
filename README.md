@@ -44,10 +44,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   1 hr 4 mins     ████████████████████▒░░░░   81.56 %
-YAML         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-TOML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JavaScript   1 hr 4 mins     █████████████████████▓░░░   86.13 %
+YAML         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
