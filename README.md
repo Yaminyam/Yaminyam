@@ -44,9 +44,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   44 mins         ████████████████████████░   95.88 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON         6 mins          ███████████████████████░░   92.27 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
