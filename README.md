@@ -53,7 +53,7 @@ JavaScript   0 secs          █▒░░░░░░░░░░░░░░░
 
 ---
 
-Outside of Github, You can find me below:
+Outside of GitHub, You can find me below:
 
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@siontama)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yamision/)
