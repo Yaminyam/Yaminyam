@@ -45,8 +45,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-JSON         6 mins          ██████████████████████▒░░   89.92 %
-JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+YAML         2 hrs 4 mins    ████████████████░░░░░░░░░   64.48 %
+Terraform    46 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+Other        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
 <!--END_SECTION:waka-->
