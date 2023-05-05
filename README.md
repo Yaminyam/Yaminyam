@@ -45,10 +45,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-YAML        2 hrs 8 mins    ███████████████░░░░░░░░░░   60.16 %
-Terraform   46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-OCaml       16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
-Other       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+OCaml       16 mins         ████████████████████░░░░░   79.75 %
+YAML        4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
