@@ -45,7 +45,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```text
-OCaml   0 secs          █████████████████████████   100.00 %
+Python   23 mins         █████████████████▒░░░░░░░   69.33 %
+YAML     10 mins         ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+OCaml    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
