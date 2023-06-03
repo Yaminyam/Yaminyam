@@ -44,7 +44,7 @@ I think that programming is for automation after all, so I think that the develo
 Last 7 days Coding time
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Terraform   13 mins         ████████████████▒░░░░░░░░   65.89 %
 Other       6 mins          ████████▒░░░░░░░░░░░░░░░░   32.71 %
 Text        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
