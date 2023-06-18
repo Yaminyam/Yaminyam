@@ -45,10 +45,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 10 mins    ██████████████░░░░░░░░░░░   56.31 %
-YAML        34 mins         ███████░░░░░░░░░░░░░░░░░░   27.57 %
-Other       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
-Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Terraform   1 hr 10 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
