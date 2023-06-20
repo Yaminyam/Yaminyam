@@ -45,7 +45,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 10 mins    █████████████████████████   100.00 %
+TypeScript   55 mins         █████████████████▓░░░░░░░   70.90 %
+Terraform    17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+TSConfig     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
