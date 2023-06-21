@@ -45,11 +45,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   55 mins         █████████████████▓░░░░░░░   70.90 %
-Terraform    17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
-TSConfig     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+TypeScript   55 mins         █████████████████████░░░░   84.29 %
+Terraform    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+TSConfig     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
