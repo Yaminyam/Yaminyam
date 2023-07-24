@@ -45,7 +45,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     15 mins         ████████████▒░░░░░░░░░░░░   49.26 %
+Git Config   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+JSON         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
 ```
 
 <!--END_SECTION:waka-->
