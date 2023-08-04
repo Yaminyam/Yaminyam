@@ -45,11 +45,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Other              1 hr 2 mins     █████████▒░░░░░░░░░░░░░░░   37.04 %
-TypeScript         1 hr 1 min      █████████░░░░░░░░░░░░░░░░   36.65 %
-Python             16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-Bash               15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-reStructuredText   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Other              1 hr 2 mins     ████████▒░░░░░░░░░░░░░░░░   32.74 %
+TypeScript         1 hr 1 min      ████████░░░░░░░░░░░░░░░░░   32.34 %
+Python             37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Bash               15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
+reStructuredText   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
