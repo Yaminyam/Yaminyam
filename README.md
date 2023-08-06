@@ -17,16 +17,15 @@ I think that programming is for automation after all, so I think that the develo
 - [Chungnam National University](https://plus.cnu.ac.kr/html/kr/) (2018. 03 ~ )
 ### 🌱 I’m currently learning
 - Language: TypeScript, Python, Rust, C++
-- Framework: Sptring boot, Nest.JS, Express.JS
-- DB: SQLite, MySQL, MongoDB
+- Framework: Spring boot, Nest.JS, Express.JS
+- DB: SQLite, MySQL, MongoDB, PostgreSQL
 - DevOps: Terraform, Ansible, Vagrant, Kubernetes
 ### ⚡ Activity
 - DEPROMEET 12th Server Developer
-- boostcamp Web/Mobile 7th membership camper
-- boostcamp Web/Mobile 7th challenge camper
+- boostcamp Web / Mobile 7th membership / challenge camper
 - open source contribution academy 2022 RustPython Lead Mentee
 - AUSG 6th member
-- SW Maestro 1th Expert
+- SW Maestro 1th, 2nd Expert
 - 42Seoul 4th Cadet
 - SW Maestro 10th trainee
 ### 📫 How to reach me: siontama@gmail.com
