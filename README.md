@@ -21,9 +21,12 @@ I think that programming is for automation after all, so I think that the develo
 - DB: SQLite, MySQL, MongoDB, PostgreSQL
 - DevOps: Terraform, Ansible, Vagrant, Kubernetes
 ### ⚡ Activity
+- Cloud Club 3rd member
 - DEPROMEET 12th Server Developer
 - boostcamp Web / Mobile 7th membership / challenge camper
-- open source contribution academy 2022 RustPython Lead Mentee
+- open source contribution academy
+  - 2022 RustPython Lead Mentee
+  - 2023 Argo Workflows Mentee
 - AUSG 6th member
 - SW Maestro 1th, 2nd Expert
 - 42Seoul 4th Cadet
