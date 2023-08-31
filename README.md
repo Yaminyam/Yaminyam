@@ -19,7 +19,7 @@ I think that programming is for automation after all, so I think that the develo
 - Language: TypeScript, Python, Rust, C++
 - Framework: Spring boot, Nest.JS, Express.JS
 - DB: SQLite, MySQL, MongoDB, PostgreSQL
-- DevOps: Terraform, Ansible, Vagrant, Kubernetes
+- DevOps: Terraform, Ansible, Vagrant, Kubernetes, Argo Workflows, Harbor
 ### ⚡ Activity
 - Cloud Club 3rd member
 - DEPROMEET 12th Server Developer
