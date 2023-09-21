@@ -21,6 +21,7 @@ I think that programming is for automation after all, so I think that the develo
 - DB: SQLite, MySQL, MongoDB, PostgreSQL
 - DevOps: Terraform, Ansible, Vagrant, Kubernetes, Argo Workflows, Harbor
 ### ⚡ Activity
+- SIPE 1st member
 - Cloud Club 3rd member
 - DEPROMEET 12th Server Developer
 - boostcamp Web / Mobile 7th membership / challenge camper
