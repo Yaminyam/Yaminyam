@@ -48,11 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     2 hrs 2 mins    ████████████████████░░░░░   79.92 %
-Prolog         18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
-JavaScript     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Assembly       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+TypeScript     2 hrs 2 mins    █████████████▒░░░░░░░░░░░   52.89 %
+Ezhil          45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Assembly       27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+Prolog         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+TOML           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
