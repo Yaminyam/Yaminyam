@@ -48,10 +48,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Text         2 mins          ████████████▒░░░░░░░░░░░░   49.70 %
-TypeScript   2 mins          ██████████▓░░░░░░░░░░░░░░   42.29 %
-JavaScript   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Text     2 mins          ████████████████████████▓   98.06 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
 ```
 
 <!--END_SECTION:waka-->
