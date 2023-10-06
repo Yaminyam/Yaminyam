@@ -48,8 +48,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Text     2 mins          ████████████████████████▓   98.06 %
-Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
