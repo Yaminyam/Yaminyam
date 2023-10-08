@@ -48,10 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML             28 mins         █████████████████████▒░░░   84.70 %
-Docker           4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-ActionScript 3   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+YAML             37 mins         █████████████████████▓░░░   86.10 %
+Docker           4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+ActionScript 3   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+GDScript         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
