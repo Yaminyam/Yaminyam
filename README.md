@@ -48,10 +48,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-INI              4 mins          ████████████░░░░░░░░░░░░░   47.62 %
-ActionScript 3   2 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
-Docker           1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-YAML             0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Gettext Catalog    16 mins         ██████████████████▓░░░░░░   75.10 %
+reStructuredText   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.27 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
