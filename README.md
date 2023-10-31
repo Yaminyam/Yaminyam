@@ -48,9 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Gettext Catalog    16 mins         ██████████████████▓░░░░░░   75.10 %
-reStructuredText   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+YAML               1 hr            █████████████████░░░░░░░░   68.20 %
+Gettext Catalog    16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+reStructuredText   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Python             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Git                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
