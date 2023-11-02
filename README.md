@@ -48,11 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML               1 hr 7 mins     ████████████████░░░░░░░░░   64.43 %
-Gettext Catalog    16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
-Python             13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-reStructuredText   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
-TOML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+YAML      1 hr 7 mins     ████████████████████▓░░░░   82.16 %
+Python    13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
+TOML      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+GraphQL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
