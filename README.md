@@ -48,11 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python             2 hrs 8 mins    ████████████████░░░░░░░░░   63.54 %
-YAML               29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-Bash               19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown           17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-GraphQL            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Python             5 hrs 18 mins   ██████████████████░░░░░░░   71.94 %
+Markdown           31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+YAML               29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+reStructuredText   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+Bash               19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
