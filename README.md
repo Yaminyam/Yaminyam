@@ -48,11 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python             6 hrs 42 mins   ████████████████████▒░░░░   81.51 %
-reStructuredText   41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Markdown           28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Gettext Catalog    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python             3 hrs 32 mins   █████████████████████░░░░   83.83 %
+reStructuredText   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Markdown           14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Text               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+GraphQL            2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
