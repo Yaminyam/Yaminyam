@@ -48,8 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python     18 mins         ███████████████████████▓░   94.56 %
-Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Python       2 hrs 49 mins   ██████████████████▒░░░░░░   73.60 %
+TOML         31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+JSON         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+GraphQL      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
