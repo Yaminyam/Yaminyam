@@ -48,11 +48,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python     1 hr 54 mins    ██████████████████████▒░░   88.88 %
-TOML       12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
