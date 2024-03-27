@@ -48,7 +48,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML      1 hr 19 mins    ████████████████████████▓   98.38 %
+Bash      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+confini   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
