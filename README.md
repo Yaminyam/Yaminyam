@@ -48,7 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   3 hrs 32 mins   █████████████████████████   100.00 %
+YAML               3 hrs 23 mins   █████████████████░░░░░░░░   67.76 %
+TOML               59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.72 %
+Python             21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Git                7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Markdown           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
