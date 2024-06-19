@@ -48,8 +48,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   1 hr 33 mins    ██████████████████████░░░   87.65 %
-Bash   13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+YAML   51 mins         ████████████████████░░░░░   79.61 %
+Bash   13 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
 ```
 
 <!--END_SECTION:waka-->
