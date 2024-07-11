@@ -48,11 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML               22 mins         ████████▒░░░░░░░░░░░░░░░░   32.80 %
-Bash               20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-Other              13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-Markdown           7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-Gettext Catalog    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+YAML               2 hrs 1 min     █████████████████▓░░░░░░░   70.72 %
+Bash               21 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Other              13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
+Markdown           9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Gettext Catalog    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
