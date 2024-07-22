@@ -12,7 +12,7 @@ I think that programming is for automation after all, so I think that the develo
 ### 🔭 I’m currently working on
 - [Lablup Inc.](https://www.lablup.com/)
   - [Intern](https://blog.lablup.com/posts/2022/11/29/internship-review-8) (2022. 07. ~ 2022. 12.)
-  - Software Engineer (2023. 01. ~ )
+  - Software Engineer / DevOps Team / CloudOps & Backend Chapter (2023. 01. ~ )
 - [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
 - [Chungnam National University](https://plus.cnu.ac.kr/html/kr/) (2018. 03 ~ )
 ### 🌱 I’m currently learning
