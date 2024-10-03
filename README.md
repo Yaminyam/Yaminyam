@@ -48,10 +48,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-TOML               13 mins         ███████████████░░░░░░░░░░   60.32 %
-Python             5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-JSON               3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-reStructuredText   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Bash               2 hrs 21 mins   ██████████████▓░░░░░░░░░░   58.76 %
+YAML               1 hr 1 min      ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+sh                 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Python             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
+reStructuredText   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
