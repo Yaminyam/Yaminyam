@@ -48,8 +48,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 22 mins   ████████████████████████▓   99.20 %
-TOML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python   3 hrs 22 mins   ███████████████████████▒░   92.86 %
+JSON     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+TOML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
