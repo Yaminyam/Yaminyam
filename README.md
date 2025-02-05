@@ -48,7 +48,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python    10 mins         ███████████████░░░░░░░░░░   59.80 %
+YAML      3 mins          █████░░░░░░░░░░░░░░░░░░░░   19.74 %
+Text      2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
+GraphQL   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
