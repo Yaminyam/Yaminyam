@@ -48,11 +48,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   38 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
-HTML         27 mins         ████████▒░░░░░░░░░░░░░░░░   33.35 %
-Terraform    8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
-TOML         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Bash   8 mins          ████████████████████████░   95.40 %
+YAML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
 ```
 
 <!--END_SECTION:waka-->
