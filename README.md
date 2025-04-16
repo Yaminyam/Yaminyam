@@ -48,7 +48,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+pem       4 mins          ████████████████████▓░░░░   82.12 %
+SSH Key   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Other     0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
