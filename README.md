@@ -48,9 +48,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-YAML               3 mins          ██████████████████░░░░░░░   71.71 %
-reStructuredText   1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
-Gettext Catalog    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TOML    2 mins          ██████████████████▒░░░░░░   73.97 %
+JSON    0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Bash    0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
