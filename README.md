@@ -15,11 +15,7 @@ I think that programming is for automation after all, so I think that the develo
   - Software Engineer / DevOps Team / CloudOps & Backend Chapter (2023. 01. ~ )
 - [Satrec Initiative](https://www.satreci.com/) (2022. 03. ~ 2022. 06.)
 - [Chungnam National University](https://plus.cnu.ac.kr/html/kr/) (2018. 03 ~ )
-### 🌱 I’m currently learning
-- Language: TypeScript, Python, Rust, C++
-- Framework: Spring boot, Nest.JS, Express.JS
-- DB: SQLite, MySQL, MongoDB, PostgreSQL
-- DevOps: Terraform, Ansible, Vagrant, Kubernetes, Argo Workflows, Harbor, GitHub Actions, Graylog
+
 ### ⚡ Activity
 - SIPE 1st member
 - Cloud Club 3rd member
