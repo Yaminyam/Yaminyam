@@ -44,7 +44,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         32 mins         ██████████████▒░░░░░░░░░░   57.86 %
+TOML         18 mins         ████████░░░░░░░░░░░░░░░░░   31.97 %
+JavaScript   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
