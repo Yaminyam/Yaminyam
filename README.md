@@ -44,11 +44,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         8 mins          ██████████▓░░░░░░░░░░░░░░   42.38 %
-Python       7 mins          █████████▒░░░░░░░░░░░░░░░   37.02 %
-TOML         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-sshconfig    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-Public Key   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Python       7 mins          ███████████████████████▓░   94.48 %
+Public Key   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 ```
 
 <!--END_SECTION:waka-->
