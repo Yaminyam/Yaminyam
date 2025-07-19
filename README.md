@@ -44,8 +44,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 mins          ███████████████████████▓░   94.48 %
-Public Key   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Public Key   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
