@@ -44,7 +44,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Public Key   0 secs          █████████████████████████   100.00 %
+HTML         6 mins          ███████████░░░░░░░░░░░░░░   43.62 %
+JavaScript   5 mins          ██████████░░░░░░░░░░░░░░░   39.96 %
+Bash         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
+TOML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
