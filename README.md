@@ -44,10 +44,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Other   36 mins         ████████████▓░░░░░░░░░░░░   50.15 %
-pem     14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.81 %
-conf    13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-Bash    8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
