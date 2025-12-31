@@ -44,7 +44,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   11 mins         ███████████████████████▓░   94.48 %
+JSON   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+zip    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
