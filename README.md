@@ -43,8 +43,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python      1 hr 55 mins    ███████████████████████░░   92.50 %
-sshconfig   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Python   1 hr 37 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
