@@ -43,7 +43,10 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Python   9 mins                █████████████████████████   100.00 %
+Bash     13 mins               █████████████░░░░░░░░░░░░   52.37 %
+Python   9 mins                █████████▒░░░░░░░░░░░░░░░   37.19 %
+YAML     2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+conf     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
