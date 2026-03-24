@@ -43,7 +43,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-pem   0 secs                █████████████████████████   100.00 %
+Markdown    6 mins                █████████░░░░░░░░░░░░░░░░   35.98 %
+Jinja2      6 mins                ████████▒░░░░░░░░░░░░░░░░   33.35 %
+sshconfig   5 mins                ███████▓░░░░░░░░░░░░░░░░░   30.67 %
 ```
 
 <!--END_SECTION:waka-->
