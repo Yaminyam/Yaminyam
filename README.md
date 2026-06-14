@@ -43,11 +43,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 16 mins         ██████████▒░░░░░░░░░░░░░░   41.79 %
-Python       3 hrs                 ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Other        2 hrs 35 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-E-mail       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-sshconfig    6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Markdown     3 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
+Python       3 hrs 25 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
+Other        2 hrs 39 mins         ███████░░░░░░░░░░░░░░░░░░   27.43 %
+E-mail       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+SSH Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
