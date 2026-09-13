@@ -44,9 +44,11 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Other      4 hrs 50 mins         █████████████████▓░░░░░░░   70.77 %
-Markdown   1 hr 51 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-YAML       8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Other      4 hrs 34 mins         ████████████████░░░░░░░░░   63.39 %
+Markdown   1 hr 53 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+Python     29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+YAML       11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Bash       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
