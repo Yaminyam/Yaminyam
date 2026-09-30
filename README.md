@@ -44,10 +44,9 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 53 mins         █████████████████░░░░░░░░   68.60 %
-TypeScript   1 hr                  ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-Markdown     45 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Other        5 hrs 29 mins         █████████████████████▒░░░   85.53 %
+Markdown     29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+TypeScript   26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 ```
 
 <!--END_SECTION:waka-->
