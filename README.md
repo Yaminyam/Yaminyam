@@ -44,9 +44,8 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-Other        5 hrs 29 mins         █████████████████████▒░░░   85.53 %
-Markdown     29 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-TypeScript   26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+Other      6 hrs 11 mins         ███████████████████████▒░   92.71 %
+Markdown   29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
 ```
 
 <!--END_SECTION:waka-->
