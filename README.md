@@ -44,7 +44,7 @@ Last 7 days Coding time
 <!--START_SECTION:waka-->
 
 ```txt
-pem   2 mins                █████████████████████████   100.00 %
+sshconfig   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
